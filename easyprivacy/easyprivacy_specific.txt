@@ -1211,7 +1211,6 @@
 ||net-a-porter.com/intl/trackpage.nap?
 ||netflix.com/beacons?*&ssizeCat=*&vsizeCat=
 ||netflix.com/EpicCounter?
-||netflix.com/ichnaea/log
 ||netflix.com/LogCustomerEvent?
 ||netflix.com/RegisterActionImpression?
 ||netlog.com/track
